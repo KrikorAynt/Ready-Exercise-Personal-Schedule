@@ -9,9 +9,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP User Workouts Page</title>
+        <title>User Workouts Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Hello There!</h1>
     </body>
 </html>
